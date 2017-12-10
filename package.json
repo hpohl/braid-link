@@ -1,0 +1,15 @@
+{
+  "name": "braid-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brlink": "./brlink.js",
+    "brulink": "./brulink.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
